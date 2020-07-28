@@ -1,30 +1,24 @@
-## Welcome to GitHub Pages
+# 这是一个网页制作练习
 
-You can use the [editor on GitHub](https://github.com/Littlecloudme6/littlecloudme6.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+首先我要感谢郭郭的帮助！没有![她](C:\Users\melissa\Pictures\Saved Pictures\23f229f20634ea02cede419dda33560a.jpg)就没有这个网页！就没有我的今天！（泪目）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是一个随意的[链接](https://www.w3school.com.cn/tags/att_img_src.asp)
 
-### Markdown
+## 这是一个小标题
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+这是一个markdown
+```
+- 啦啦啦啦**加粗**
+- 噜噜**噜噜**加粗啦
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1.嘿嘿
+2.嘿 _heihei_
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+\
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
