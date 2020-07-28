@@ -1,6 +1,6 @@
 # 这是一个网页制作练习
 
-首先我要感谢郭郭的帮助！没有![她](C:\Users\melissa\Pictures\Saved Pictures\23f229f20634ea02cede419dda33560a.jpg)就没有这个网页！就没有我的今天！（泪目）
+首先我要感谢郭郭的帮助！没有 ![她](C:\Users\melissa\Pictures\Saved Pictures\23f229f20634ea02cede419dda33560a.jpg)就没有这个网页！就没有我的今天！（泪目）
 
 这是一个随意的[链接](https://www.w3school.com.cn/tags/att_img_src.asp)
 
