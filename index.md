@@ -12,8 +12,8 @@
 - 啦啦啦啦**加粗**
 - 噜噜**噜噜**加粗啦
 
-1.嘿嘿
-2.嘿 _heihei_
+ 1. 嘿嘿
+ 2. 嘿 _heihei_
 
 **Bold** and _Italic_ and `Code` text
 
