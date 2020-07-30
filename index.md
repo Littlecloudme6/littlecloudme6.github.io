@@ -1,3 +1,20 @@
+# A Docker tutorial for reproducible research.
+
+This is an introduction to Docker designed for participants with knowledge about R and RStudio. The introduction is intended to be helping people who need Docker for a project. We first explain what Docker is and why it is useful. Then we go into the the details on how to use it for a reproducible transportable project. 
+
+# Lessons
+  1. [Lesson 01 What and Why](http://ropenscilabs.github.io/r-docker-tutorial/01-what-and-why.html)
+  2. [Lesson 02 Launching Docker](http://ropenscilabs.github.io/r-docker-tutorial/02-Launching-Docker.html)
+  3. Lesson 03 Installing R packages
+  4. Lesson 04 Pushing and Pulling with Docker Hub
+  5. Lesson 05 Dockerfiles
+  6. Lesson 06 Sharing your analysis
+
+# Before You Start
+
+Try to install Docker before you come to the workshop, by following the instructions for [mac](https://docs.docker.com/get-started/), linux, or windows. If you get stuck, don't worry! We'll help you get set up at the beginning of the workshop.
+
+This tutorial is work in progress. If you have any suggestions how we could make it better please open a new issue. 
 # 这是一个网页制作练习
 
 制作一个小网页！
@@ -10,9 +27,9 @@
 
 ### 数字型列表
 
-1\. text1
-2\. text2
-3\. text3
+1. text1
+2. text2
+3. text3
 
 ## 链接
 ### 插入链接
