@@ -1,31 +1,36 @@
 # 这是一个网页制作练习
 
-首先我要感谢郭郭的帮助！没有 ![她](C:\Users\melissa\Pictures\Saved Pictures\23f229f20634ea02cede419dda33560a.jpg)就没有这个网页！就没有我的今天！（泪目）
+制作一个小网页！
 
-这是一个随意的[链接](https://www.w3school.com.cn/tags/att_img_src.asp)
+## 列表
+### 标记型列表
 
-## 这是一个小标题
+- text1
+- text2
 
-```
-这是一个markdown
-```
-- 啦啦啦啦**加粗**
-- 噜噜**噜噜**加粗啦
+### 数字型列表
 
- 1. 嘿嘿
- 2. 嘿 _heihei_
+1\. text1
+2\. text2
+3\. text3
 
-**Bold** and _Italic_ and `Code` text
+## 链接
+### 插入链接
+[link1](https://www.jianshu.com/p/e5986cd1a618)
+### 插入图片
+![image1](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596121974500&di=a8c059cf399a36207de75e87690514ae&imgtype=0&src=http%3A%2F%2Fp3.itc.cn%2Fq_70%2Fimages03%2F20200608%2F656c058375b14693bc270a94dd1809eb.png)
 
-[Link](url) and ![Image](src)
-\
+## 引用
+> 嘿嘿嘿
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 粗体和斜体
+突然出现的**粗体字**和*斜体字*
 
-### Jekyll Themes
+## 代码引用
+`[link2]()`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Littlecloudme6/littlecloudme6.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 表格
+| this|  is |  a  |table|
+|-----|:---:|:---:|----:|
+|     |     |     |     |
+|     |     |     |     |
